@@ -1,0 +1,2 @@
+# hsconfig
+Hammerspoon config 
